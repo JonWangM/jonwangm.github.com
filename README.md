@@ -1,7 +1,7 @@
-咖啡兔
+梦想猪
 =======
 
-博客源码：[http://www.kafeitu.me](http://www.kafeitu.me)
+博客源码：[http://www.dreampig.cn](http://www.dreampig.cn)
 
 使用Github + Jekyll + Markdown。
 
@@ -12,6 +12,7 @@
 
 后经蒋鑫修改：[https://github.com/gotgit/gotgit.github.com/](https://github.com/gotgit/gotgit.github.com/)
 
+Fork 咖啡兔[https://github.com/henryyan/henryyan.github.com/](https://github.com/henryyan/henryyan.github.com/)
 插件配置：
 ===
 
