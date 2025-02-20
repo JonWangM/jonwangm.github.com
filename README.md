@@ -5,17 +5,6 @@
 
 使用Github + Jekyll + Markdown。
 
-博客主题：
-====
-
-最初版本来源于：[https://github.com/mbleigh/mbleigh.github.com/](https://github.com/mbleigh/mbleigh.github.com/)
-
-后经蒋鑫修改：[https://github.com/gotgit/gotgit.github.com/](https://github.com/gotgit/gotgit.github.com/)
-
-Fork 咖啡兔[https://github.com/henryyan/henryyan.github.com/](https://github.com/henryyan/henryyan.github.com/)
-插件配置：
-===
-
 Jekyll生成的静态网页所以不能使用类似于Wordpress的插件提供功能，所以使用Javascript方式实现。
 
 * **评论**：[多说](http://duoshuo.com) 符合国内使用特性，支持主流社区帐号；后续版本会支持Google、Twitter等。
